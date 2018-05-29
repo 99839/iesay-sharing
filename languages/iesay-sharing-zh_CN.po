@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Iesay Sharing\n"
+"POT-Creation-Date: 2018-04-12 20:35+0800\n"
+"PO-Revision-Date: 2018-04-12 20:48+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-admin.php:104 includes/views/settings-page.php:33
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-admin.php:114
+msgid "Iesay Social Sharing"
+msgstr "Iesay 社交分享"
+
+#: includes/class-admin.php:114
+msgid "Social Sharing"
+msgstr "社交分享"
+
+#: includes/template-functions.php:17
+msgid "On LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/template-functions.php:18
+msgid "On Twitter"
+msgstr "Twitter"
+
+#: includes/template-functions.php:19
+msgid "On Facebook"
+msgstr "Facebook"
+
+#: includes/template-functions.php:20
+msgid "On Google+"
+msgstr "Google+ "
+
+#: includes/template-functions.php:21
+msgid "On QQ"
+msgstr "QQ"
+
+#: includes/template-functions.php:22
+msgid "On Weibo"
+msgstr "微博"
+
+#: includes/template-functions.php:23
+msgid "On Weixin"
+msgstr "微信"
+
+#: includes/template-functions.php:24
+msgid "On Renren"
+msgstr "人人网"
+
+#: includes/template-functions.php:25
+msgid "On Pinterest"
+msgstr "Pinterest"
+
+#: includes/template-functions.php:27
+msgid "On QQzone"
+msgstr "QQ空间"
+
+#: includes/template-functions.php:31
+msgid "Donate"
+msgstr "捐赠"
+
+#: includes/template-functions.php:98
+msgid "Wechat Share"
+msgstr "微信分享"
+
+#: includes/template-functions.php:127
+msgid "Helpful to you, Please donate me."
+msgstr "对你有帮助，请捐助我。"
+
+#: includes/template-functions.php:127
+msgid "Alipay."
+msgstr "支付宝"
+
+#: includes/template-functions.php:127
+msgid "Wechat."
+msgstr "微信"
+
+#: includes/views/settings-page.php:27
+msgid "by"
+msgstr "作者"
+
+#: includes/views/settings-page.php:39
+msgid "Add to"
+msgstr "添加到"
+
+#: includes/views/settings-page.php:52
+msgid ""
+"Automatically adds the sharing links to the end of the selected post types."
+msgstr "自动将分享链接添加到所选文章类型的文章末尾。"
+
+#: includes/views/settings-page.php:58
+msgid "Social networks"
+msgstr "社交网络"
+
+#: includes/views/settings-page.php:71
+msgid "Show these social network options."
+msgstr "显示这些社交网络选项。"
+
+#: includes/views/settings-page.php:77
+msgid "Donate Alipay Qrcode"
+msgstr "支付宝收款二维码"
+
+#: includes/views/settings-page.php:81
+msgid "Alipay donate qrcode url for the donate."
+msgstr "输入您的支付宝帐号的收款二维码图像网址。"
+
+#: includes/views/settings-page.php:87
+msgid "Donate Wechat Qrcode"
+msgstr "微信收款二维码"
+
+#: includes/views/settings-page.php:91
+msgid "Wechat donate qrcode url for the donate."
+msgstr "输入您的微信帐号的收款二维码图像网址。"
+
+#: includes/views/settings-page.php:97
+msgid "Load icon CSS?"
+msgstr "加载图标CSS..."
+
+#: includes/views/settings-page.php:100 includes/views/settings-page.php:126
+msgid "Yes"
+msgstr "是 "
+
+#: includes/views/settings-page.php:101 includes/views/settings-page.php:127
+msgid "No"
+msgstr "否"
+
+#: includes/views/settings-page.php:103
+msgid "Adds simple but pretty icons to the sharing links."
+msgstr "为共享链接添加简单但漂亮的图标。"
+
+#: includes/views/settings-page.php:109
+msgid "Icon size"
+msgstr "图标大小"
+
+#: includes/views/settings-page.php:113
+msgid "Square"
+msgstr "方形"
+
+#: includes/views/settings-page.php:113 includes/views/settings-page.php:114
+#: includes/views/settings-page.php:115 includes/views/settings-page.php:116
+msgid "style"
+msgstr "样式"
+
+#: includes/views/settings-page.php:114
+msgid "Icon"
+msgstr "图标"
+
+#: includes/views/settings-page.php:115
+msgid "Round"
+msgstr "圆角"
+
+#: includes/views/settings-page.php:116
+msgid "Normal"
+msgstr "标准"
+
+#: includes/views/settings-page.php:123
+msgid "Load pop-up JS?"
+msgstr "加载弹出式 JS？"
+
+#: includes/views/settings-page.php:129
+msgid ""
+"A small JavaScript file of just 600 bytes so people won't have to leave your "
+"website to share."
+msgstr "一个只有600字节的小JavaScript文件，作为弹窗登录功能使用。"
+
+#: includes/views/settings-page.php:135
+msgid "Twitter username"
+msgstr "Twitter用户名"
+
+#: includes/views/settings-page.php:139
+msgid "Set this if you want to append \"via @yourTwitterUsername\" to tweets."
+msgstr "如果要将“通过@yourTwitterUsername”附加到推文，请设置此项。"
+
+#: includes/views/settings-page.php:157
+msgid "Happy with the plugin?"
+msgstr "喜欢该插件吗？"
+
+#: includes/views/settings-page.php:158
+msgid ""
+"If you like this plugin, consider supporting it in one the following ways."
+msgstr "如果你喜欢这个插件，可以考虑通过以下几种方式来支持它。"
+
+#: includes/views/settings-page.php:159
+msgid "Buy me a cup of coffee."
+msgstr "买一杯咖啡给我。"
+
+#: includes/views/settings-page.php:186
+msgid "Looking for support?"
+msgstr "寻找支持吗?"
+
+#: includes/views/settings-page.php:187
+#, php-format
+msgid "Please use the %splugin support forums%s on iesay.com."
+msgstr "Please use the %splugin support forums%s on iesay.com."
+
+#. Plugin Name of the plugin/theme
+msgid "Iesay Sharing"
+msgstr "Iesay Sharing"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.iesay.com/iesay-social-sharing/"
+msgstr "https://www.iesay.com/iesay-social-sharing/"
+
+#. Description of the plugin/theme
+msgid "Adds super lightweight (no-scripts) social share buttons to your posts."
+msgstr "一个简单的插件，用于将社会化分享按钮添加到您的文章里。"
+
+#. Author of the plugin/theme
+msgid "99839"
+msgstr "99839"
+
+#. Author URI of the plugin/theme
+msgid "https://www.iesay.com/"
+msgstr "https://www.iesay.com/"
